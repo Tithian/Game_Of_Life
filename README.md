@@ -7,4 +7,6 @@ Ejecutar el archivo main.py
 Aparecerá una ventana en la que puedes elegir el tamaño de la rejilla (recomendable 16x16).
 Pulsar mostrar rejilla habilitará un panel de botones.
 
-Pulsa los botones para crear un patrón y pulsa play. Puedes pulsar STOP para detenerlo o se detendrá solo si no hay un bucle infinito.
+Pulsa los botones para crear un patrón y pulsa play. Puedes pulsar STOP para detenerlo o se detendrá solo si no hay un bucle infinito (Hay que pulsarlo dos veces de momento hast que arregle el bug).
+
+
